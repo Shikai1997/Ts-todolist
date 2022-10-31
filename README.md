@@ -1,0 +1,2 @@
+# Ts-todolist
+use typescript
